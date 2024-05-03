@@ -1,0 +1,11 @@
+basic of GoLang
+====================
+
+go.mod like : package.json file 
+go.sum like : package.log.json file   
+go mod init "github.com/jatinnsharma/GoLang-tut" like : npm init 
+go get like : npm install  
+
+go get github.com/julienschmidt/httprouter := help us to connect http Router
+go get "gopkg.in/mgo.v2" := help us to connect with mongodb 
+go get "gopkg.in/mgo.v2/bson" := add mongodb bson (some system needed)
